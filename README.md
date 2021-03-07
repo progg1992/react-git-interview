@@ -48,9 +48,8 @@ By having quick access to popular interview questions, along with different solu
 
 ## Installation
    * Make sure you have node installed in your machine and have cloned this repo.
-   * Run : ```npm install``` in order to install all dependencies 
-   * Navigate to client folder and run: ```npm install``` in order to install all dependencies.
-   * Run : ```npm run dev``` and the application will start 
+   * Run : ```npm install``` in order to install all dependencies
+   * Run : ```npm run start:dev``` and the application will start 
    * Navigate to the localhost port: http://localhost:3000 in the browser.
 
 ## Links
